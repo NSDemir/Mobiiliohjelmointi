@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MOB.HARJ.1</string>
+    <string name="AmountVisitor">AMOUNT OF VISITORS</string>
+    <string name="resetButton">RESET</string>
+    <string name="AddButton">ADD VISITOR</string>
+    <string name="DecButton">DECREASE VISITOR</string>
+    <string name="VisitorNumber">0</string>
+</resources>

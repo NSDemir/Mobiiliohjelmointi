@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOB.HARJ.1</string>
+    <string name="AmountVisitor">kavijamaara</string>
+    <string name="resetButton">nollaa</string>
+    <string name="AddButton">lisaa kayttaja</string>
+    <string name="DecButton">vahenna kayttaja</string>
+    <string name="VisitorNumber">0</string>
+</resources>
